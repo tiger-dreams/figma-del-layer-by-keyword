@@ -21,6 +21,7 @@
     "id": "delete-layers-by-keyword",
     "name": "Delete Layers by Keyword",
     "main": "src/main.ts",
-    "ui": "src/ui.tsx"
+    "ui": "src/ui.tsx",
+    "icon": "icon.svg"
   }
 }
